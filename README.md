@@ -1,4 +1,4 @@
-Introduction
+Introduction:
 The E-Vote Application is a modern and secure online voting platform built with React and Vite. This application enables users to cast their votes digitally, while allowing various parties to publish and manage voting polls efficiently. Designed for transparency, accessibility, and ease of use, it leverages real-time updates and secure authentication to ensure a seamless and trustworthy voting process.
 
 Key Features:
